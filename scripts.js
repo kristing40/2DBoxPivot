@@ -4,6 +4,8 @@ var ideaArray= [];
 // updatedKeyArray();
 // onPageLoad();
 
+/***Work to be***/
+
 /***EVENT LISTENTERS**/
 $('.save-idea').on('click', function () {
   debugger
